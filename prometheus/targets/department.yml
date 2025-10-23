@@ -1,0 +1,5 @@
+- labels:
+    account: 'department name'
+    instance: 'instance name'
+  targets:
+    - 'private ip:9100'
